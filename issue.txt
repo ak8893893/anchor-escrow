@@ -1,0 +1,2 @@
+error: package solana-program v1.18.0 cannot be built because it requires rustc 1.72.0 or newer, while the currently active rustc version is 1.68.0-dev #34987
+https://github.com/solana-labs/solana/issues/34987
